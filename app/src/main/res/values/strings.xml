@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LEVEL6_TASK_2</string>
+    <string name="play">PLAY!</string>
+    <string name="history">HISTORY</string>
+    <string name="title">rock, paper, scissors</string>
+    <string name="instructions">Select Rock ,papper or scissors to play!!</string>
+    <string name="stats">Your stats:</string>
+    <string name="win">Win:</string>
+    <string name="draw">Draw:</string>
+    <string name="lose">Lose:</string>
+    <string name="computer">computer</string>
+    <string name="vs">vs</string>
+    <string name="you">you   </string>
+</resources>
